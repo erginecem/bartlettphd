@@ -301,11 +301,11 @@ font-family: gangster;
 
   a.alias:hover {
 
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-     filter: grayscale(100%);
+  /*  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+/*     filter: grayscale(100%); */
 
-  /*  -webkit-filter: invert(1);
-  filter: invert(1); */
+  -webkit-filter: invert(1);
+  filter: invert(1);
   }
 
 
